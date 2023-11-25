@@ -1,0 +1,10 @@
+# .gitpod.yml
+
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - ms-python.python
+    - mtxr.sqltools
+    - eamodio.gitlens
